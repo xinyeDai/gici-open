@@ -46,13 +46,13 @@ OpenCV is a computer vision library. You can find the releases on [OpenCV][openc
 
 [opencv]: https://opencv.org/releases/
 
-#### 1.4 Yaml-cpp 0.4.0 or later. REQUIRED.  (原代码要求0.6.0)
+#### 1.4 Yaml-cpp 0.6.0 or later. REQUIRED.
 
 Yaml-cpp is a decoder and encoder for YAML formats. We use YAML file to configure our workflow. You can find the releases on [yaml-cpp][yaml].
 
 [yaml]: https://github.com/jbeder/yaml-cpp
 
-#### 1.5 Glog 0.6.0 or later. REQUIRED.
+#### 1.5 Glog 0.4.0 or later. REQUIRED.  (原代码要求0.6.0)
 Glog is a logging control library. You can find the releases on [Glog][glog_]. You should install Glog together with [Gflags][gflags]. We suggest you install Glog from source code, rather than apt-get. Because installing from apt-get may make GICI fail to find the Glog library during compiling.
 
 [glog_]: https://github.com/google/glog
