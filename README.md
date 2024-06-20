@@ -46,7 +46,7 @@ OpenCV is a computer vision library. You can find the releases on [OpenCV][openc
 
 [opencv]: https://opencv.org/releases/
 
-#### 1.4 Yaml-cpp 0.6.0 or later. REQUIRED.
+#### 1.4 Yaml-cpp 0.4.0 or later. REQUIRED.  (原代码要求0.6.0)
 
 Yaml-cpp is a decoder and encoder for YAML formats. We use YAML file to configure our workflow. You can find the releases on [yaml-cpp][yaml].
 
